@@ -19,3 +19,18 @@ i {
 .heading {
     font-size: 3vw;
 }
+
+@media screen and (orientation: portrait) {
+    .main-heading {
+        font-size: 5vh;
+    }
+
+    .long-text {
+        font-size: 2vh;
+    }
+
+    .heading {
+        font-size: 3vh;
+    }
+
+}
