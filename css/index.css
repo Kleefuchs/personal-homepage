@@ -1,0 +1,42 @@
+@import url("style.css");
+
+
+body {
+    background-color: var(--primary-color);
+    color: rgb(120, 255, 120);
+    text-shadow: 2px 2px 3px red;
+}
+
+.main-heading {
+    text-align: center;
+    background-color: var(--secondary-color);
+    padding: 2.5%;
+}
+
+.long-text {
+    background-color: var(--secondary-color);
+}
+
+.heading {
+}
+
+#about-me-text {
+    margin-top: 5%;
+    padding: 2.5%;
+}
+
+#my-projects {
+    padding: 2.5%;
+}
+
+#my-projects-heading {
+    margin-bottom: 3.5%;
+}
+
+#my-accounts {
+    padding: 2.5%;
+}
+
+#my-accounts-heading {
+    margin-bottom: 3.5%;
+}

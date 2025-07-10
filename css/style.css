@@ -1,0 +1,21 @@
+
+:root {
+    --primary-color: #010409;
+    --secondary-color: #0D1117;
+}
+
+i {
+    color: rgb(255, 150, 150);
+}
+
+.main-heading {
+    font-size: 5vw;
+}
+
+.long-text {
+    font-size: 2vw;
+}
+
+.heading {
+    font-size: 3vw;
+}
