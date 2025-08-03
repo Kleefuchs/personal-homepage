@@ -2,6 +2,11 @@
 :root {
     --primary-color: #010409;
     --secondary-color: #0D1117;
+    --main-font: 'Roboto', sans-serif;
+}
+
+body {
+    font-family: var(--main-font);
 }
 
 i {
